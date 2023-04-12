@@ -16,7 +16,7 @@ function Newsletter() {
               type="email"
               placeholder="Enter Email"
             />
-            <button className="bg-[#00df9a] w-[200px] rounded-md font-medium ml-4 my-6 mx-auto py-3 text-black">
+            <button className=" text-black">
               Notify Me
             </button>
           </div>
